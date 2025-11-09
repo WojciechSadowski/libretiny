@@ -48,9 +48,9 @@
 #define PIN_SERIAL0_CTS  10u // PIN_A10
 #define PIN_SERIAL0_RTS  9u  // PIN_A9
 #define PIN_SERIAL0_RX_0 12u // PIN_A12
-#define PIN_SERIAL0_RX_1 13u // PIN_A13
+#define PIN_SERIAL0_RX   13u // PIN_A13
 #define PIN_SERIAL0_TX_0 11u // PIN_A11
-#define PIN_SERIAL0_TX_1 14u // PIN_A14
+#define PIN_SERIAL0_TX   14u // PIN_A14
 #define PIN_SERIAL1_CTS  4u  // PIN_A4
 #define PIN_SERIAL1_RX_0 0u  // PIN_A0
 #define PIN_SERIAL1_RX_1 2u  // PIN_A2
